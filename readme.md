@@ -4,7 +4,9 @@ This is the code used to run and deploy NetES
 
 ## Paper
 Arxiv link: https://arxiv.org/abs/1811.12556
+
 Empirical results paper accepted to NIPS 2018 DRL Symposium 
+
 Theoretical results paper accepted to NeurIPS (new NIPS name) 2019 DRL workshop
 
 ## Steps
